@@ -1,0 +1,21 @@
+/*
+Theme Name: Airi
+Description: Theme enfant promotion
+Author: Johnny
+Template: airi
+Version: 0.1.0
+*/
+
+
+.wp-block-cover__inner-container{
+    margin-top: 28em;
+}
+
+
+.main-navigation {
+    font-size: larger;
+}
+
+.has-text-align-center {
+    margin: 2em;
+}
